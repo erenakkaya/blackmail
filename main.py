@@ -2,8 +2,8 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
-login = 'admin@erenakkaya.com.tr'
-password = 'b2ynjgk6mTpCXGIa'
+login = 'login.smtp.com'
+password = 'pass.smtp'
 msg = MIMEMultipart('mixed')
 
 sender = 'mail@example.com'
