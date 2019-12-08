@@ -1,8 +1,8 @@
 # blackmail 
 #author erenakkaya
-BlackMail is a tool for creating and sending fake mail.\n
+BlackMail is a tool for creating and sending fake mail.
 
-EN* \n
+EN* 
 Use of ;
 1-First you need to use SMTP service. The service I use is sendinblue.com.
 2-We are printing the login information provided by the SMTP service to the required places.
