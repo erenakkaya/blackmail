@@ -8,4 +8,4 @@ Use of ;
 2-We are printing the login information provided by the SMTP service to the required places.
 3-We are writing from which e-mail address.
 4-We enter the message content.
-5- Successful.g
+5- Successful.
