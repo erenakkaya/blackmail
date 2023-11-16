@@ -18,7 +18,7 @@ html_message = MIMEText('Buda resim falan eklersen diye Mesaj yani.(With images 
 msg.attach(text_message)
 msg.attach(html_message)
 
-mailServer = smtplib.SMTP('smtp-relay.sendinblue.com', 587) # 8025, 587 and 25 can also be used.
+mailServer = smtplib.SMTP('smtp-relay.brevo.com', 587) # 8025, 587 and 25 can also be used.
 mailServer.ehlo()
 mailServer.ehlo()
 mailServer.login(login, password)
