@@ -2,6 +2,7 @@
 #author erenakkaya
 
 FOR EDUCATIONAL PURPOSES ONLY. THE DEVELOPER DOES NOT ACCEPT ANY RESPONSIBILITY.
+
 BlackMail is a tool for creating and sending spoof mail.
 
 EN* 
